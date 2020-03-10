@@ -1,0 +1,6 @@
+E:\EPAM\C#\Task 4\FairyTale\bin\Debug\FairyTale.exe.config
+E:\EPAM\C#\Task 4\FairyTale\bin\Debug\FairyTale.exe
+E:\EPAM\C#\Task 4\FairyTale\bin\Debug\FairyTale.pdb
+E:\EPAM\C#\Task 4\FairyTale\obj\Debug\FairyTale.csprojAssemblyReference.cache
+E:\EPAM\C#\Task 4\FairyTale\obj\Debug\FairyTale.exe
+E:\EPAM\C#\Task 4\FairyTale\obj\Debug\FairyTale.pdb
